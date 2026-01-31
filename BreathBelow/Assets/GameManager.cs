@@ -25,13 +25,13 @@ public class GameManager : MonoBehaviour
 
     public List<string> spikeMessages = new List<string>
     {
-        "You are now a kebab. Underwater edition.",
+        "You are now a kebab. \n Underwater edition.",
         "Stabbed by geology.",
         "Rock bottom. Literally.",
         "Spiky boi.",
-        "You tried to hug a rock. It did not hug back.",
-        "Cave said: ‘No touchy.’ You touched.",
-        "Congratulations! You are now part of the environment."
+        "You tried to hug a rock.\n It did not hug back.",
+        "Cave said: ‘No touchy.’ \n You touched.",
+        "Congratulations! \n cYou are now part of the environment."
     };
 
     public List<string> winMessages = new List<string>

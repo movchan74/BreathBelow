@@ -76,7 +76,7 @@ public class MicReader : MonoBehaviour
         _lastReadPos = Microphone.GetPosition(deviceName);
 
         // Initialize line positions so you don't get a spike on frame 1
-        UpdatePlot();
+        // UpdatePlot();
     }
 
     void Update()

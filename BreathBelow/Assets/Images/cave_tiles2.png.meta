@@ -1,91 +1,109 @@
 fileFormatVersion: 2
-guid: 79496511282d02349908fb79b6333f2f
+guid: 606e4762dfbba4d418cc2962c7001ab2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5557721504831401913
-    second: cave_tiles - Copy_0
+      213: 934106125045284956
+    second: cave_tiles2_0
   - first:
-      213: 8292682937746568376
-    second: cave_tiles - Copy_1
+      213: -3094541063290720924
+    second: cave_tiles2_1
   - first:
-      213: -4665838234468830463
-    second: cave_tiles - Copy_2
+      213: 445904994313476766
+    second: cave_tiles2_2
   - first:
-      213: -147913934036618133
-    second: cave_tiles - Copy_3
+      213: 7493709537977594413
+    second: cave_tiles2_3
   - first:
-      213: 954711748412893337
-    second: cave_tiles - Copy_4
+      213: -8375755519193655470
+    second: cave_tiles2_4
   - first:
-      213: 8404915265330004790
-    second: cave_tiles - Copy_5
+      213: -6369353604856244653
+    second: cave_tiles2_5
   - first:
-      213: 2419163883109170713
-    second: cave_tiles - Copy_6
+      213: 3937097828060472270
+    second: cave_tiles2_6
   - first:
-      213: 5090409212801665947
-    second: cave_tiles - Copy_7
+      213: 21944240983490181
+    second: cave_tiles2_7
   - first:
-      213: -8952637144432297659
-    second: cave_tiles - Copy_8
+      213: 2049363494921275062
+    second: cave_tiles2_8
   - first:
-      213: -8063595360400549462
-    second: cave_tiles - Copy_9
+      213: -8033043934006037184
+    second: cave_tiles2_9
   - first:
-      213: 5337270405674267606
-    second: cave_tiles - Copy_10
+      213: 2192174057281775978
+    second: cave_tiles2_10
   - first:
-      213: 6886573832017349178
-    second: cave_tiles - Copy_11
+      213: -2631848245456288182
+    second: cave_tiles2_11
   - first:
-      213: -7374195105603253831
-    second: cave_tiles - Copy_12
+      213: -2916155528863017741
+    second: cave_tiles2_12
   - first:
-      213: 6023776020759652741
-    second: cave_tiles - Copy_13
+      213: -1181780266623695696
+    second: cave_tiles2_13
   - first:
-      213: 5242352332653023151
-    second: cave_tiles - Copy_14
+      213: -5704215481836226086
+    second: cave_tiles2_14
   - first:
-      213: -946940076097220350
-    second: cave_tiles - Copy_15
+      213: 510267109292234698
+    second: cave_tiles2_15
   - first:
-      213: 1214130815482192482
-    second: cave_tiles - Copy_16
+      213: -4136491965448761029
+    second: cave_tiles2_16
   - first:
-      213: 5761273081739674455
-    second: cave_tiles - Copy_17
+      213: -3403298977505020694
+    second: cave_tiles2_17
   - first:
-      213: 1237574635494178046
-    second: cave_tiles - Copy_18
+      213: 7546170334139349788
+    second: cave_tiles2_18
   - first:
-      213: -4246961113272815834
-    second: cave_tiles - Copy_19
+      213: -4683565219358815190
+    second: cave_tiles2_19
   - first:
-      213: -1150735945924744089
-    second: cave_tiles - Copy_20
+      213: 5473479115466401861
+    second: cave_tiles2_20
   - first:
-      213: 8462849923242605983
-    second: cave_tiles - Copy_21
+      213: -3419128390015426718
+    second: cave_tiles2_21
   - first:
-      213: 4233688147067813942
-    second: cave_tiles - Copy_22
+      213: 2581457783516792520
+    second: cave_tiles2_22
   - first:
-      213: 6321421378410125223
-    second: cave_tiles - Copy_23
+      213: -8651409285060936147
+    second: cave_tiles2_23
   - first:
-      213: 4924726945942032488
-    second: cave_tiles - Copy_24
+      213: -3959031873843985829
+    second: cave_tiles2_24
   - first:
-      213: 2778961764921445286
-    second: cave_tiles - Copy_25
+      213: 4260310554361780623
+    second: cave_tiles2_25
   - first:
-      213: 1441790770340338712
-    second: cave_tiles - Copy_26
+      213: -7105713202716656218
+    second: cave_tiles2_26
   - first:
-      213: 846065534949153182
-    second: cave_tiles - Copy_27
+      213: -7236192833907909441
+    second: cave_tiles2_27
+  - first:
+      213: -1256955280821592181
+    second: cave_tiles2_28
+  - first:
+      213: 4577853272351923905
+    second: cave_tiles2_29
+  - first:
+      213: -1968534023637608090
+    second: cave_tiles2_30
+  - first:
+      213: 1963100681599225508
+    second: cave_tiles2_31
+  - first:
+      213: 8653779445044304944
+    second: cave_tiles2_32
+  - first:
+      213: 1028128684104562333
+    second: cave_tiles2_33
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,617 +199,551 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cave_tiles - Copy_0
+      name: cave_tiles2_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 823
-        width: 187
-        height: 178
+        x: 20
+        y: 824
+        width: 176
+        height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9bf6608334ef02d40800000000000000
-      internalID: 5557721504831401913
+      spriteID: c5047d5529c96fc00800000000000000
+      internalID: 934106125045284956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_1
+      name: cave_tiles2_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 827
+        width: 186
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d62bb6c4bfd05d0800000000000000
+      internalID: -3094541063290720924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 823
+        width: 187
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a90a5da3c203600800000000000000
+      internalID: 445904994313476766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 826
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227c151f110ff760800000000000000
+      internalID: 7493709537977594413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 826
+        width: 173
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d1f06bb653cb80800000000000000
+      internalID: -8375755519193655470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 650
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35690b584a28b97a0800000000000000
+      internalID: -6369353604856244653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 651
+        width: 191
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a18f6d9163a630800000000000000
+      internalID: 3937097828060472270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 649
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ebfa0cb26fd4000800000000000000
+      internalID: 21944240983490181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 647
+        width: 88
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68f6a9d3dc07c10800000000000000
+      internalID: 2049363494921275062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 650
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b6785a15e48090800000000000000
+      internalID: -8033043934006037184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 651
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696b12c0ba2c6e10800000000000000
+      internalID: 2192174057281775978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 454
+        width: 169
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c7d207fbc97bd0800000000000000
+      internalID: -2631848245456288182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_12
       rect:
         serializedVersion: 2
         x: 215
-        y: 823
-        width: 187
-        height: 178
+        y: 451
+        width: 131
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b4b3530237851370800000000000000
-      internalID: 8292682937746568376
+      spriteID: 3f414583ffbb787d0800000000000000
+      internalID: -2916155528863017741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_2
+      name: cave_tiles2_13
       rect:
         serializedVersion: 2
-        x: 412
-        y: 822
-        width: 206
-        height: 179
+        x: 355
+        y: 448
+        width: 139
+        height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 103bc0fa8dc9f3fb0800000000000000
-      internalID: -4665838234468830463
+      spriteID: 0b4045ddb19799fe0800000000000000
+      internalID: -1181780266623695696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_3
+      name: cave_tiles2_19
       rect:
         serializedVersion: 2
-        x: 615
-        y: 823
-        width: 194
-        height: 178
+        x: 652
+        y: 450
+        width: 151
+        height: 170
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b64ba688f0182fdf0800000000000000
-      internalID: -147913934036618133
+      spriteID: a2c4eb16f32a00fb0800000000000000
+      internalID: -4683565219358815190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_4
+      name: cave_tiles2_20
       rect:
         serializedVersion: 2
-        x: 813
-        y: 816
-        width: 188
-        height: 185
+        x: 827
+        y: 448
+        width: 177
+        height: 167
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 998ea03e641df3d00800000000000000
-      internalID: 954711748412893337
+      spriteID: 548e4ea7144b5fb40800000000000000
+      internalID: 5473479115466401861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_5
+      name: cave_tiles2_21
       rect:
         serializedVersion: 2
-        x: 14
-        y: 637
-        width: 196
-        height: 180
+        x: 507
+        y: 448
+        width: 132
+        height: 168
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 633c04517e144a470800000000000000
-      internalID: 8404915265330004790
+      spriteID: 26f5da738d0dc80d0800000000000000
+      internalID: -3419128390015426718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_6
+      name: cave_tiles2_23
       rect:
         serializedVersion: 2
-        x: 215
-        y: 637
-        width: 194
+        x: 19
+        y: 233
+        width: 180
         height: 177
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91e3d220cb8929120800000000000000
-      internalID: 2419163883109170713
+      spriteID: d2e3d65a71500f780800000000000000
+      internalID: -8651409285060936147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_7
+      name: cave_tiles2_25
       rect:
         serializedVersion: 2
-        x: 411
-        y: 638
-        width: 107
+        x: 359
+        y: 219
+        width: 248
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d49980e9af1b30800000000000000
+      internalID: 4260310554361780623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_27
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 231
+        width: 181
         height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9b4b6a7534c4a640800000000000000
-      internalID: 5090409212801665947
+      spriteID: fbc11b0e4f0e39b90800000000000000
+      internalID: -7236192833907909441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_8
+      name: cave_tiles2_28
       rect:
         serializedVersion: 2
-        x: 504
-        y: 638
-        width: 107
-        height: 179
+        x: 829
+        y: 223
+        width: 177
+        height: 191
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 549352343f7d1c380800000000000000
-      internalID: -8952637144432297659
+      spriteID: b8fd31ce4d56e8ee0800000000000000
+      internalID: -1256955280821592181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_9
+      name: cave_tiles2_29
       rect:
         serializedVersion: 2
-        x: 615
-        y: 631
-        width: 194
-        height: 87
+        x: 31
+        y: 33
+        width: 182
+        height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa956d21eba581090800000000000000
-      internalID: -8063595360400549462
+      spriteID: 1ce5564fb4dc78f30800000000000000
+      internalID: 4577853272351923905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_10
+      name: cave_tiles2_30
       rect:
         serializedVersion: 2
-        x: 815
-        y: 637
-        width: 189
-        height: 172
+        x: 226
+        y: 37
+        width: 170
+        height: 163
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d37b68e72bc11a40800000000000000
-      internalID: 5337270405674267606
+      spriteID: 6695fc83cbc5ea4e0800000000000000
+      internalID: -1968534023637608090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cave_tiles - Copy_11
+      name: cave_tiles2_31
       rect:
         serializedVersion: 2
-        x: 23
-        y: 455
+        x: 623
+        y: 35
+        width: 205
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8c014ba55e3b10800000000000000
+      internalID: 1963100681599225508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tiles2_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 34
         width: 188
-        height: 172
+        height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a3a05e0e966029f50800000000000000
-      internalID: 6886573832017349178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_12
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 454
-        width: 195
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b908122f9899a990800000000000000
-      internalID: -7374195105603253831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_13
-      rect:
-        serializedVersion: 2
-        x: 412
-        y: 455
-        width: 201
-        height: 153
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58925e32060c89350800000000000000
-      internalID: 6023776020759652741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_14
-      rect:
-        serializedVersion: 2
-        x: 523
-        y: 584
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: faf493fdba390c840800000000000000
-      internalID: 5242352332653023151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_15
-      rect:
-        serializedVersion: 2
-        x: 589
-        y: 569
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 201d4a4940bcbd2f0800000000000000
-      internalID: -946940076097220350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_16
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 453
-        width: 196
-        height: 175
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 262ebaf3b8579d010800000000000000
-      internalID: 1214130815482192482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_17
-      rect:
-        serializedVersion: 2
-        x: 810
-        y: 455
-        width: 191
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7530d13e75724ff40800000000000000
-      internalID: 5761273081739674455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_18
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 279
-        width: 191
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efcf9a3f29fbc2110800000000000000
-      internalID: 1237574635494178046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_19
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 279
-        width: 198
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62fe97c6e53cf05c0800000000000000
-      internalID: -4246961113272815834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_20
-      rect:
-        serializedVersion: 2
-        x: 411
-        y: 279
-        width: 208
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76ce1e801c3c700f0800000000000000
-      internalID: -1150735945924744089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_21
-      rect:
-        serializedVersion: 2
-        x: 618
-        y: 277
-        width: 194
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9d3156ca25127570800000000000000
-      internalID: 8462849923242605983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_22
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 279
-        width: 198
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63042cf40f411ca30800000000000000
-      internalID: 4233688147067813942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_23
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 87
-        width: 204
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a712b750433ab750800000000000000
-      internalID: 6321421378410125223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_24
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 87
-        width: 192
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8605ba4a015285440800000000000000
-      internalID: 4924726945942032488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_25
-      rect:
-        serializedVersion: 2
-        x: 414
-        y: 87
-        width: 201
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ab098a600bd09620800000000000000
-      internalID: 2778961764921445286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_26
-      rect:
-        serializedVersion: 2
-        x: 614
-        y: 87
-        width: 197
-        height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81c92921115420410800000000000000
-      internalID: 1441790770340338712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_tiles - Copy_27
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 85
-        width: 198
-        height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9958531f14ddbb00800000000000000
-      internalID: 846065534949153182
+      spriteID: d9631774795a44e00800000000000000
+      internalID: 1028128684104562333
       vertices: []
       indices: 
       edges: []
@@ -800,7 +752,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d6854bfe3c6ddf5469799829146ae32e
     internalID: 0
     vertices: []
     indices: 
@@ -810,34 +762,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cave_tiles - Copy_0: 5557721504831401913
-      cave_tiles - Copy_1: 8292682937746568376
-      cave_tiles - Copy_10: 5337270405674267606
-      cave_tiles - Copy_11: 6886573832017349178
-      cave_tiles - Copy_12: -7374195105603253831
-      cave_tiles - Copy_13: 6023776020759652741
-      cave_tiles - Copy_14: 5242352332653023151
-      cave_tiles - Copy_15: -946940076097220350
-      cave_tiles - Copy_16: 1214130815482192482
-      cave_tiles - Copy_17: 5761273081739674455
-      cave_tiles - Copy_18: 1237574635494178046
-      cave_tiles - Copy_19: -4246961113272815834
-      cave_tiles - Copy_2: -4665838234468830463
-      cave_tiles - Copy_20: -1150735945924744089
-      cave_tiles - Copy_21: 8462849923242605983
-      cave_tiles - Copy_22: 4233688147067813942
-      cave_tiles - Copy_23: 6321421378410125223
-      cave_tiles - Copy_24: 4924726945942032488
-      cave_tiles - Copy_25: 2778961764921445286
-      cave_tiles - Copy_26: 1441790770340338712
-      cave_tiles - Copy_27: 846065534949153182
-      cave_tiles - Copy_3: -147913934036618133
-      cave_tiles - Copy_4: 954711748412893337
-      cave_tiles - Copy_5: 8404915265330004790
-      cave_tiles - Copy_6: 2419163883109170713
-      cave_tiles - Copy_7: 5090409212801665947
-      cave_tiles - Copy_8: -8952637144432297659
-      cave_tiles - Copy_9: -8063595360400549462
+      cave_tiles2_0: 934106125045284956
+      cave_tiles2_1: -3094541063290720924
+      cave_tiles2_10: 2192174057281775978
+      cave_tiles2_11: -2631848245456288182
+      cave_tiles2_12: -2916155528863017741
+      cave_tiles2_13: -1181780266623695696
+      cave_tiles2_14: -5704215481836226086
+      cave_tiles2_15: 510267109292234698
+      cave_tiles2_16: -4136491965448761029
+      cave_tiles2_17: -3403298977505020694
+      cave_tiles2_18: 7546170334139349788
+      cave_tiles2_19: -4683565219358815190
+      cave_tiles2_2: 445904994313476766
+      cave_tiles2_20: 5473479115466401861
+      cave_tiles2_21: -3419128390015426718
+      cave_tiles2_22: 2581457783516792520
+      cave_tiles2_23: -8651409285060936147
+      cave_tiles2_24: -3959031873843985829
+      cave_tiles2_25: 4260310554361780623
+      cave_tiles2_26: -7105713202716656218
+      cave_tiles2_27: -7236192833907909441
+      cave_tiles2_28: -1256955280821592181
+      cave_tiles2_29: 4577853272351923905
+      cave_tiles2_3: 7493709537977594413
+      cave_tiles2_30: -1968534023637608090
+      cave_tiles2_31: 1963100681599225508
+      cave_tiles2_32: 8653779445044304944
+      cave_tiles2_33: 1028128684104562333
+      cave_tiles2_4: -8375755519193655470
+      cave_tiles2_5: -6369353604856244653
+      cave_tiles2_6: 3937097828060472270
+      cave_tiles2_7: 21944240983490181
+      cave_tiles2_8: 2049363494921275062
+      cave_tiles2_9: -8033043934006037184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
