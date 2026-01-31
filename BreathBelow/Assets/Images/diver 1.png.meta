@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 01423686150f61847be10ba1f2d80d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1913282184640950844
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_0
+  - first:
+      213: -4027642216585204290
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_1
+  - first:
+      213: -5069784041947933256
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_2
+  - first:
+      213: -7200124014523058173
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_3
+  - first:
+      213: 1615502707875021003
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_4
+  - first:
+      213: -2455662827565837430
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_5
+  - first:
+      213: -6445176378512630116
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_6
+  - first:
+      213: 5722720643393179968
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_7
+  - first:
+      213: 4526934920124139017
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_8
+  - first:
+      213: 6519997849582539983
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_9
+  - first:
+      213: 2985447873320069169
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_10
+  - first:
+      213: -832701718980560171
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_11
+  - first:
+      213: 1672634350785797500
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_12
+  - first:
+      213: -6064010433153260455
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_13
+  - first:
+      213: -2571741959406245543
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_14
+  - first:
+      213: 6009798589894013759
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_15
+  - first:
+      213: -6758456661320562564
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_16
+  - first:
+      213: 4845641065791993715
+    second: ChatGPT Image Jan 31, 2026, 03_01_03 PM_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diver 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 841
+        width: 186
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92121997cf131a47b265ce422607e36
+      internalID: 1689762252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diver 1_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 839
+        width: 187
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1ccfa2416d084f9be68b078d84fea
+      internalID: 425083739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diver 1_10
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 684
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13190f903c3327541b6346174f0c9384
+      internalID: 996548575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diver 1_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 831
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99666cda25135384e8fbb34a6208930c
+      internalID: 978728178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a56e43d2b1a2eb4c8ea62efd73320c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      diver 1_0: 1689762252
+      diver 1_1: 606310986
+      diver 1_10: 996548575
+      diver 1_11: -1395802208
+      diver 1_12: 1208649827
+      diver 1_13: -381547829
+      diver 1_14: 52516812
+      diver 1_15: -1441408744
+      diver 1_16: -505002521
+      diver 1_17: 554555930
+      diver 1_18: 767041873
+      diver 1_19: -943119624
+      diver 1_2: 425083739
+      diver 1_3: -2127072797
+      diver 1_4: 978728178
+      diver 1_5: -1460783245
+      diver 1_6: -768123717
+      diver 1_7: -447572502
+      diver 1_8: 122711356
+      diver 1_9: -624078847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
