@@ -113,10 +113,16 @@ public class GameManager : MonoBehaviour
         // diver.enabled = false;  // only if Diver is a MonoBehaviour component
     }
 
-    private void RestartGame()
+    public void RestartGame()
     {
+        Debug.Log("Restarting game...");
         Time.timeScale = 1f;
         // Reload scene
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void TriggerAirPocket()
+    {
+        micReader.air = 1f;
     }
 }

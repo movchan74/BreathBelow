@@ -58,4 +58,20 @@ public class Diver : MonoBehaviour
             Object.FindObjectOfType<GameManager>().TriggerWin();
         }
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Finish"))
+        {
+            Object.FindObjectOfType<GameManager>().TriggerWin();
+        }
+    }
+
+    void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("AirPocket"))
+        {
+            Object.FindObjectOfType<GameManager>().TriggerAirPocket();
+        }
+    }
 }
